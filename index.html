@@ -1,11 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <style>
+        canvas {
+            border:1px solid #d3d3d3;
+            background-color: #f1f1f1;
+        }
+    </style>
 </head>
 <body>
-<canvas id="canvas" width="720" height="1561"></canvas>
-<script src="flappyBrid.js"></script>
+<h1 id="score"></h1>
+
+<button type="button" id="play" onclick="startGame()">play</button>
 </body>
+
+<script src="stargame.js"></script>
+
+<script src="update.js"></script>
+
+<script src="vekhoi.js"></script>
 </html>

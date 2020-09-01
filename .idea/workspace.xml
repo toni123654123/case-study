@@ -11,8 +11,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d2567e0-6a2d-4863-9200-b1e8f8ea6d43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/canvas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flappyBrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stargame.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vekhoi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flappyBrid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/Flappy_Bird_gameplay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/bg2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/bird.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/fg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/nut play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/pipeNorth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/pipeSouth.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +55,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,6 +72,11 @@
       <workItem from="1598682624566" duration="3015000" />
       <workItem from="1598686192321" duration="5516000" />
       <workItem from="1598784953319" duration="45000" />
+      <workItem from="1598802303603" duration="825000" />
+      <workItem from="1598835738725" duration="453000" />
+      <workItem from="1598836810691" duration="10316000" />
+      <workItem from="1598860165341" duration="1765000" />
+      <workItem from="1598944508588" duration="7209000" />
     </task>
     <servers />
   </component>
@@ -76,5 +94,15 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1598860171413">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598860171413" />
+    <state x="0" y="0" width="1095" height="703" key="dock-window-1" timestamp="1598946571118">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="1095" height="703" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1598946571118" />
   </component>
 </project>
