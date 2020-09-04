@@ -5,19 +5,25 @@
     <style>
         canvas {
             border:1px solid #d3d3d3;
-            background-color: #f1f1f1;
+            background-image: url("img/background.gif");
+            margin: auto;
+            display: block;
         }
     </style>
 </head>
 <body>
+
 <h1 id="score"></h1>
 
-<button type="button" id="play" onclick="startGame()">play</button>
+<button type="button" id="play" onclick="startGame()" >Play</button>
+
+<button onclick="window.location.reload()">Reset</button>
+
+<script src="js/starGame.js"></script>
+
+<script src="js/updateGameArea.js"></script>
+
+<script src="js/component.js"></script>
 </body>
 
-<script src="stargame.js"></script>
-
-<script src="update.js"></script>
-
-<script src="vekhoi.js"></script>
 </html>

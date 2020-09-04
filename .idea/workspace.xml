@@ -11,21 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d2567e0-6a2d-4863-9200-b1e8f8ea6d43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stargame.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vekhoi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/starGame.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/updateGameArea.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvas.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flappyBrid.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/Flappy_Bird_gameplay.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/bg2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/bg2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/bird.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/fg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/nut play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/pipeNorth.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/pipeSouth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg2.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stargame.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vekhoi.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/component.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +29,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -55,7 +49,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tuan\Desktop\codegymx\case study\js" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -76,7 +76,14 @@
       <workItem from="1598835738725" duration="453000" />
       <workItem from="1598836810691" duration="10316000" />
       <workItem from="1598860165341" duration="1765000" />
-      <workItem from="1598944508588" duration="7209000" />
+      <workItem from="1598944508588" duration="10685000" />
+      <workItem from="1599043746204" duration="11748000" />
+      <workItem from="1599095605297" duration="12607000" />
+      <workItem from="1599114902906" duration="2209000" />
+      <workItem from="1599122783500" duration="6451000" />
+      <workItem from="1599141791046" duration="1393000" />
+      <workItem from="1599149464910" duration="780000" />
+      <workItem from="1599182072153" duration="1626000" />
     </task>
     <servers />
   </component>
@@ -96,13 +103,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1598860171413">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1599125363215">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598860171413" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599125363215" />
+    <state x="17" y="0" key="SettingsEditor" timestamp="1599122821463">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="13" y="0" key="SettingsEditor/0.0.1024.728@0.0.1024.728" timestamp="1599115400055" />
+    <state x="17" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599122821463" />
     <state x="0" y="0" width="1095" height="703" key="dock-window-1" timestamp="1598946571118">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="0" width="1095" height="703" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1598946571118" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1599106910397">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1599106910397" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599058319124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599058319124" />
   </component>
 </project>
