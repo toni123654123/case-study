@@ -33,9 +33,15 @@ function updateGameArea() {
 
     myGamePiece.update();
 
-    document.getElementById('score').innerText = "Your score: " + myGameArea.frameNo;
+    document.getElementById('score').innerText = "Your score: " + myGameArea.frameNo
+
+    if (myGameArea.frameNo > 500){
+        clearInterval(this.interval);
+        this.interval = setInterval(updateGameArea, 5);
+    }
 
 }
+
 // Hàm everyinterval trả về true nếu số khung hiện tại tương ứng với khoảng thời gian nhất định.
 function everyinterval(n) {
     if ((myGameArea.frameNo / n) % 1 == 0) {
