@@ -11,15 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d2567e0-6a2d-4863-9200-b1e8f8ea6d43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/starGame.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/updateGameArea.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg2.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stargame.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vekhoi.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/starGame.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/starGame.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/updateGameArea.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/updateGameArea.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +42,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tuan4" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -83,7 +78,7 @@
       <workItem from="1599122783500" duration="6451000" />
       <workItem from="1599141791046" duration="1393000" />
       <workItem from="1599149464910" duration="780000" />
-      <workItem from="1599182072153" duration="1626000" />
+      <workItem from="1599182072153" duration="3803000" />
     </task>
     <servers />
   </component>
@@ -103,10 +98,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1599125363215">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1599185019305">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599125363215" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599185019305" />
     <state x="17" y="0" key="SettingsEditor" timestamp="1599122821463">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -11,7 +11,7 @@ function updateGameArea() {
     myGameArea.clear();
 
     myGameArea.frameNo += 1;
-
+// khai báo biến chướng ngại vật dưới dạng một mảng.
     if (myGameArea.frameNo == 1 || everyinterval(150)) {
         x = myGameArea.canvas.width;
         minHeight = 80;
@@ -36,7 +36,7 @@ function updateGameArea() {
     document.getElementById('score').innerText = "Your score: " + myGameArea.frameNo;
 
 }
-
+// Hàm everyinterval trả về true nếu số khung hiện tại tương ứng với khoảng thời gian nhất định.
 function everyinterval(n) {
     if ((myGameArea.frameNo / n) % 1 == 0) {
         return true;

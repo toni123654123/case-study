@@ -2,7 +2,7 @@ let myGamePiece; // phương pháp tạo ra một <canvas>phần tử và chèn 
 let myObstacles = [];
 let audio = new Audio('Pikachu.mp3');
 
-// Hàm startGame()gọi phương thức start()của myGameAreađối tượng.
+// Hàm startGame()gọi phương thức start()của myGameArea đối tượng.
 function startGame() {
     myGamePiece = new component("img/pika2.gif", 50, 40, "", 10, 100, "img");
     myGameArea.start();
